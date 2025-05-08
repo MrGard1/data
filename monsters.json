@@ -1,0 +1,40 @@
+{
+  "creatures": [
+    {
+      "id": 1,
+      "name": "Flamefang",
+      "type": "Dragon",
+      "level": 12,
+      "health": 350,
+      "abilities": ["Fire Breath", "Wing Gust", "Tail Whip"],
+      "description": "A fierce dragon with scales of molten lava and a temper to match."
+    },
+    {
+      "id": 2,
+      "name": "Mirelurker",
+      "type": "Beast",
+      "level": 8,
+      "health": 220,
+      "abilities": ["Swamp Camouflage", "Acid Spit", "Claw Slash"],
+      "description": "Dwells in murky waters, attacking unsuspecting travelers."
+    },
+    {
+      "id": 3,
+      "name": "Wisp",
+      "type": "Spirit",
+      "level": 5,
+      "health": 100,
+      "abilities": ["Phase Shift", "Illusion", "Mana Drain"],
+      "description": "An ethereal being that feeds on magic energy and confusion."
+    },
+    {
+      "id": 4,
+      "name": "Stonehide Golem",
+      "type": "Construct",
+      "level": 15,
+      "health": 500,
+      "abilities": ["Earth Slam", "Fortify", "Shockwave"],
+      "description": "A towering golem built from enchanted boulders and ancient runes."
+    }
+  ]
+}
