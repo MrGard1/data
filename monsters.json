@@ -2,7 +2,7 @@
   "creatures": [
     {
       "id": 1,
-      "name": "Flamefang",
+      "name": "Flamespit",
       "type": "Dragon",
       "level": 12,
       "health": 350,
